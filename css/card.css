@@ -1,0 +1,28 @@
+body {
+  margin: 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 16px;
+}
+
+.profile {
+  display: flex;
+  width: 600px;
+  margin: 0 auto;
+  padding: 12px;
+  justify-content: space-around; 
+  text-align: center;
+  background: #ddebf8;
+  color: #2b2839;
+  border-bottom: 8px solid #d8cefe;
+  
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px; 
+  border-radius: 50%;
+}
+
+.content {
+  color: #3A86FF;
+}
